@@ -1,0 +1,27 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "BundleTest",
+    "deps": [],
+    "uuids": [
+        "d6a925a4-cd3b-4106-a2c8-ab65a147f0e1"
+    ],
+    "paths": {
+        "d6a925a4-cd3b-4106-a2c8-ab65a147f0e1": [
+            "Node",
+            "cc.Prefab",
+            1
+        ]
+    },
+    "scenes": {},
+    "packs": {},
+    "versions": {
+        "import": [],
+        "native": []
+    },
+    "redirect": [],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {}
+}
