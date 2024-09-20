@@ -1,3 +1,4 @@
+{
 "PLAYS":"Chơi",
 "REWARD":"Thưởng",
 "FRIENDS":"Bạn bè",
@@ -63,4 +64,5 @@
 "GIAO_DICH_TOKEN_TREN_SAN":"Giao dịch Token trên sàn và thu lợi nhuận",
 "PHAN_THUONG_HANG_NGAY":"Phần thưởng hàng ngày",
 "NOTE_TICH_LUY_DANG_NHAP":"Tích lũy Đạn đăng nhập vào trò chơi hàng ngày mà không cần bỏ qua.Nút nhận phải được nhấn hàng ngày ",
-"DANG_NHAP_HANG_NGAY":"Đăng nhập hàng ngày ",
+"DANG_NHAP_HANG_NGAY":"Đăng nhập hàng ngày "
+}
